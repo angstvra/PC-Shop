@@ -2,11 +2,11 @@
 <p>The Point of Sales (POS) Computer Shop System is designed to revolutionize the operations of your computer shop by providing an efficient platform for managing sales and inventory. This system aims to streamline processes, enhance productivity, and elevate the total sales of businesses.</p>
 
 # Key Features
-<ol>
+<ul>
   <li>Inventory Management: The system will keep track of available computer parts, including details such as quantity and pricing.</li>
   <li>Sales Processing: The POS system will facilitate smooth and efficient sales transactions, including the ability to generate process payments.</li>
   <li>Integration Capabilities: The POS system will have the potential for integration with other business systems, such as accounting software and supplier databases, to ensure seamless operations.</li>
-</ol>
+</ul>
 
 # Snapshot
 <img src="https://github.com/angstvra/PC-Shop/assets/93997417/b94b7b46-a0e6-4e86-b2bf-7c4490532df3" width="600" height="400">
